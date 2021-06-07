@@ -61,8 +61,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![teste](\images\armawsiot1.png)
-![\images\armawsiot1.png](teste)
+[Link](url) and ![teste](/images/armawsiot1.png)
+![/images/armawsiot1.png](teste)
 ![alt text](/images/armawsiot1.png "...")
 
 ```
