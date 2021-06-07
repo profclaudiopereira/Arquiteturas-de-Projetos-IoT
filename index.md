@@ -20,13 +20,11 @@ Quer contribuir? Abra uma issue, mande um PR para o projeto no [git](https://git
 - [IoT Solution Components](iot_solution_components.md)
 - [Patterns](patterns.md)
 - [Experimentos/Laboratórios](experimentos.md)
-- [Plano de Capacitação (DevDev)](capacitacao.md)
 - [Modelos de uso](modelos_uso.md)
-- [Parcerias](parcerias.md)
 - [Projetos](projetos.md)
 - [Notícias](noticias.md)
 - [Eventos](Eventos.md)
-- [Equipes](equipes.md)
+
 
 
 
