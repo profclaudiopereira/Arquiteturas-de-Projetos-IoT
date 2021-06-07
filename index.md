@@ -63,6 +63,7 @@ Syntax highlighted code block
 
 [Link](url) and ![teste](\images\armawsiot1.png)
 ![\images\armawsiot1.png](teste)
+![alt text](/images/armawsiot1.png "...")
 
 ```
 
