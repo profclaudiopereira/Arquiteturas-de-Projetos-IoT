@@ -4,15 +4,14 @@
 
 Trabalhar com IoT traz consigo desafios complexos que dependem, entre outros fatores, da fonte limitada de energia dos dispositivos que compõem a rede que, por sua vez, pode afetar a disponibilidade do sistema como um todo. 
 
-Ainda temos os desafios da interoperabilidade, da compatibilidade entre os sistemas e da mobilidade. Pesquisadores a todo momento buscam estratégias para mitigar os impactos causados pelos fatores citados acima a fim de tornar a IoT cada vez mais confiável para que sua utilização proporcione maior conforto, segurança e qualidade de vida para os cidadões. O assunto dentro SERPRO é tratado como projeto estratégico onde o avanço na maturidade desde tema é um dos objetivos do projeto.
+Ainda temos os desafios da interoperabilidade, da compatibilidade entre os sistemas e da mobilidade. Pesquisadores a todo momento buscam estratégias para mitigar os impactos causados pelos fatores citados acima a fim de tornar a IoT cada vez mais confiável para que sua utilização proporcione maior conforto, segurança e qualidade de vida para os cidadões. 
 
 
 ## Objetivo
 O objetivo desta página é descrever modelos arquiteturais de IoT, documentar experimentos, modelos de uso e etc.
 
 ## Contribuição
-Quer contribuir? Abra uma issue, mande um PR para o projeto no [git](https://git.serpro/dedat/arquitetura/iot) ou, se preferir, envie uma mensagem no canal **#iot** do [chat.serpro.gov.br](https://chat.serpro.gov.br/channel/iot).
-
+Quer contribuir? Abra uma issue,
 ## Sumário
 
 - [Conceitos](introduction.md)
