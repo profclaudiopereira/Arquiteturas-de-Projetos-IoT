@@ -64,6 +64,9 @@ Syntax highlighted code block
 [Link](url) and ![teste](/images/armawsiot1.png)
 ![/images/armawsiot1.png](teste)
 ![alt text](/images/armawsiot1.png "...")
+![Jetpacktocat](https://github.com/profclaudiopereira/images/armawsiot1.png)
+![Jetpacktocat](https://github.com/profclaudiopereira/ArquiteturasdeProjetosIoT/images/armawsiot1.png)
+
 
 ```
 
